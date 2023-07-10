@@ -14,7 +14,7 @@ You can also download the application from Google Drive ( https://drive.google.c
 ## Features :-
 
 - Statemangement ( Bloc Cubit ) 
-- Clean Arctecure
+- Clean Architecture
 - Determine your location
 - Theme Mode ( Dark & Light )
 
